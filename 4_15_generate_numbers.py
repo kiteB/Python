@@ -18,3 +18,5 @@ def generate_numbers():
 
 # 출력
 print(generate_numbers())
+
+
